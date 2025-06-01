@@ -18,4 +18,4 @@ This repository is an implementation of YOLOV5
 </br>
 <img src="https://github.com/user-attachments/assets/c2ffbcc0-c201-46ac-8dea-724a73aafcd4" width="500">
 </br>
-<img src="https://github.com/user-attachments/assets/3e80543d-a918-4115-adb0-b7c88242bcb3" width="500">
+<img src="https://github.com/user-attachments/assets/57b1a099-a851-4b7d-9820-9e3cb401df18" width="500">
