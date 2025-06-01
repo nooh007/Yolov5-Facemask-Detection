@@ -3,7 +3,7 @@
 This repository is an implementation of YOLOV5 
 
 
-## Sample Predictions
+# Sample Predictions
 </br>
 <img src="https://github.com/user-attachments/assets/ebab1e8a-f1fb-4769-910a-ecc18ba4b4ea" width="500">
 </br>
@@ -14,8 +14,8 @@ This repository is an implementation of YOLOV5
 <img src="https://github.com/user-attachments/assets/b66532cf-cd0a-4078-88c6-78c7935f0d5c" width="500">
 </br>
 
-## Results
-# Clearly the yolov5l (large model) surpasses with an mAP score of 81%
+# Results
+## Clearly the yolov5l (large model) surpasses with an mAP score of 81%
 </br>
 <img src="https://github.com/user-attachments/assets/c2ffbcc0-c201-46ac-8dea-724a73aafcd4" width="900">
 </br>
