@@ -15,7 +15,8 @@ This repository is an implementation of YOLOV5
 </br>
 
 ## Results
+# Clearly the yolov5l (large model) surpasses with an mAP score of 81%
 </br>
-<img src="https://github.com/user-attachments/assets/c2ffbcc0-c201-46ac-8dea-724a73aafcd4" width="1000">
+<img src="https://github.com/user-attachments/assets/c2ffbcc0-c201-46ac-8dea-724a73aafcd4" width="900">
 </br>
-<img src="https://github.com/user-attachments/assets/57b1a099-a851-4b7d-9820-9e3cb401df18" width="1000">
+<img src="https://github.com/user-attachments/assets/57b1a099-a851-4b7d-9820-9e3cb401df18" width="900">
