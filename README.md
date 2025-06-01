@@ -2,7 +2,7 @@
 
 This repository is an implementation of YOLOV5 
 
-
+please follow the steps in the tutorial for reimplemntation of your custom dataset
 # Sample Predictions
 </br>
 <img src="https://github.com/user-attachments/assets/ebab1e8a-f1fb-4769-910a-ecc18ba4b4ea" width="500">
