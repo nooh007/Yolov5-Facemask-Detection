@@ -2,7 +2,12 @@
 
 This repository is an implementation of YOLOV5 
 
-please follow the steps in the tutorial for your custom dataset
+## 📘 Tutorial
+
+Please follow the tutorial below for complete reimplementation:
+
+[📄 Download Tutorial (YOLOV5 for Face Mask Detection)](https://github.com/nooh007/Yolov5-Facemask-Detection/blob/main/Tutorial%20by%20nooh(YOLO-V5).pdf)
+
 
 # Sample Predictions
 </br>
